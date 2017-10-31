@@ -4,3 +4,17 @@
 - [sentences](https://github.com/ScottXiong/scott_English/blob/master/files/sentences.md)
 - [push](https://github.com/ScottXiong/scott_English/blob/master/files/push.md)
 - [AD](https://github.com/ScottXiong/scott_English/blob/master/files/ad.md)
+
+### Other useful websites
+- [smartsheet](https://www.smartsheet.com)
+- [alexa](https://try.alexa.com)
+- [frankfordcandy](http://www.frankfordcandy.com)
+- [semantic](https://semantic-ui.com/introduction/getting-started.html)
+- [iyuba](http://www.iyuba.com)
+- [yahoo](https://www.yahoo.com)
+- [walmart](http://engage.walmart-jump.com/app/home)
+- [bing](http://cn.bing.com/videos/trending)
+- [stackoverflow](https://stackoverflow.com)
+- [wetransfer](https://wetransfer.com)
+- [hightail](https://www.hightail.com)
+- [proofHQ](https://resources.workfront.com/workfront-for-it-teams)
