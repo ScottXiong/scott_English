@@ -1,6 +1,7 @@
 ### Beautiful Sentences For Business
 ```
-Hope you will have a nice weekend/day.
+Hope you have a nice weekend/day. --Friday
+Hope you had a nice weekend/day.  --Monday
 
 Here are a couple options for the BPA logo placement. Please let us know which one you prefer?
 
