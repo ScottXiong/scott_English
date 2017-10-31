@@ -1,4 +1,4 @@
-![](http://www.edu-hb.com/Upload/NewsImg/201304/08/130408130437fkomp.png)
+![xx](http://img.blog.csdn.net/20130624212825484?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvanB0aWFuY2Fp/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 ### Regular English for foreign trade
 > Regular English for foreign trade(You may use in e-mail)
 - [words](https://github.com/ScottXiong/scott_English/blob/master/files/words.md)
