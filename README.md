@@ -22,3 +22,4 @@
 - [stamen](https://stamen.com)
 
 ### To clarify one thing more clearly is not easy sometimes. Here are some e-mails I wrote before.
+- [eg-01](https://github.com/ScottXiong/scott_English/blob/master/hard/one.md)
