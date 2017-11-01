@@ -19,3 +19,4 @@
 - [wetransfer](https://wetransfer.com)
 - [hightail](https://www.hightail.com)
 - [proofHQ](https://resources.workfront.com/workfront-for-it-teams)
+- [stamen](https://stamen.com)
