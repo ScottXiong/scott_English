@@ -20,3 +20,5 @@
 - [hightail](https://www.hightail.com)
 - [proofHQ](https://resources.workfront.com/workfront-for-it-teams)
 - [stamen](https://stamen.com)
+
+### To clarify one thing more clearly is not easy sometimes. Here are some e-mails I wrote before.
