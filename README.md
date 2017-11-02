@@ -20,6 +20,7 @@
 - [hightail](https://www.hightail.com)
 - [proofHQ](https://resources.workfront.com/workfront-for-it-teams)
 - [stamen](https://stamen.com)
+- [onespeed](https://onespeed.io/blog/post/javascript-performance-lag/)
 
 ### To clarify one thing more clearly is not easy sometimes. Here are some e-mails I wrote before.
 - [eg-01](https://github.com/ScottXiong/scott_English/blob/master/hard/one.md)
