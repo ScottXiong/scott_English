@@ -24,41 +24,41 @@
 
 ### To clarify one thing more clearly is not easy sometimes. Here are some e-mails I wrote before.
 - [eg-01](https://github.com/ScottXiong/scott_English/blob/master/hard/one.md)
-### One chat room available for 24 hours, if you want improve your English, just have a try like me!
+### One [chat room](https://www.buy-express-vpn-in-cn.xyz/order) available for 24 hours, if you want improve your English, just have a try like me!
 Here are histiory dialogue.
 ```
 Live Chat
-Is the VPN available ?
-Me
+Me:Is the VPN available ?
 
-My name is Demetrio and I'll be glad to assist you.
+
+Demetrio:My name is Demetrio and I'll be glad to assist you.
 To assist you with your concern, please provide the email address you used to set up your ExpressVPN Account.
-Demetrio
-I am now in China, I just wonder if it can be used since China web network policy.
-Me
 
-Yes, you may use our service while you are in the region of China as long as you have an internet connection to use with your ExpressVPN app.
+Me:I am now in China, I just wonder if it can be used since China web network policy.
+
+
+Demetrio:Yes, you may use our service while you are in the region of China as long as you have an internet connection to use with your ExpressVPN app.
 By the way, do you already have a ExpressVPN account or just inquiring?
-Demetrio
-really? I just search the internet. But most people said it will fail to connect the VPN server
-Me
 
-Well all of our payment plans comes with a 30 days money back gu
+Me:really? I just search the internet. But most people said it will fail to connect the VPN server
+
+
+Demetrio:Well all of our payment plans comes with a 30 days money back gu
 Guarantee that you can use if you feel that our service is not right for your needs.
-Demetrio
-how about the speed?
-Me
 
-The speed will matter with your current location, ISP connection, hardware, and server location that you have connected to.
+Me:how about the speed?
+
+
+Demetrio:The speed will matter with your current location, ISP connection, hardware, and server location that you have connected to.
 Which only you can see how that will go for you.
 You may use the speed test feature of your ExpressVPN app in a computer level and you may see which server location that you can connect to that will give you the highest download value.
-Demetrio
-tsk for your kind help
-I will try later when out of work
-Me
 
-Got it and you are more than welcome to reach us anytime when you need us as we will be here for you and ready to assist.
+Me:tsk for your kind help
+I will try later when out of work
+
+
+Demetrio:Got it and you are more than welcome to reach us anytime when you need us as we will be here for you and ready to assist.
 Thank you for taking the time to reach ExpressVPN support and may you have a lovely day ahead and take care.
-Demetrio
+
 
 ```
