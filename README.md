@@ -15,6 +15,9 @@
 - [mistake](https://github.com/ScottXiong/scott_English/blob/master/files/mistake.md)
 - [test](https://github.com/ScottXiong/scott_English/blob/master/files/test.md)
 - [daily summary](https://github.com/ScottXiong/scott_English/blob/master/files/daily_summary.md)
+
+### Brands
+- [CA](https://github.com/ScottXiong/scott_English/blob/master/files/CA.md)
 ### Other useful websites
 - [smartsheet](https://www.smartsheet.com)
 - [alexa](https://try.alexa.com)
