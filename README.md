@@ -29,40 +29,40 @@
 Here are histiory dialogue.**Live Chat**
 <hr>
 
-**Me:**
+**Me:**<br>
 Is the VPN available ? <br>
 
-**Demetrio:**
+**Demetrio:**<br>
 My name is Demetrio and I'll be glad to assist you.<br>
 To assist you with your concern, please provide the email address you used to set up your ExpressVPN Account.<br>
 
-**Me:**
+**Me:**<br>
 I am now in China, I just wonder if it can be used since China web network policy.<br>
 
-**Demetrio:**
+**Demetrio:**<br>
 Yes, you may use our service while you are in the region of China as long as you have an internet connection to use with your ExpressVPN app.<br>
 By the way, do you already have a ExpressVPN account or just inquiring?<br>
 
-**Me:**
+**Me:**<br>
 really? I just search the internet. But most people said it will fail to connect the VPN server<br>
 
-**Demetrio:**
+**Demetrio:**<br>
 Well all of our payment plans comes with a 30 days money back gu<br>
 Guarantee that you can use if you feel that our service is not right for your needs.<br>
 
-**Me:**
+**Me:**<br>
 how about the speed?<br>
 
-**Demetrio:**
+**Demetrio:**<br>
 The speed will matter with your current location, ISP connection, hardware, and server location that you have connected to.<br>
 Which only you can see how that will go for you.<br>
 You may use the speed test feature of your ExpressVPN app in a computer level and you may see which server location that you can connect to that will give you the highest download value.<br>
 
-**Me:**
+**Me:**<br>
 tsk for your kind help<br>
 I will try later when out of work<br>
 
-**Demetrio:**
+**Demetrio:**<br>
 Got it and you are more than welcome to reach us anytime when you need us as we will be here for you and ready to assist.<br>
 Thank you for taking the time to reach ExpressVPN support and may you have a lovely day ahead and take care.<br>
 
