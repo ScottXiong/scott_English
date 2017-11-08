@@ -37,7 +37,7 @@
 - [onespeed](https://onespeed.io/blog/post/javascript-performance-lag/)
 
 ### Daily Life
-- [animals]()
+- [animals](http://cn.bing.com/images/search?q=animals+worksheet&qpvt=animals+worksheet&FORM=IGRE)
 - [plant]()
 - [flowers]()
 - [food]()
