@@ -14,6 +14,7 @@
 - [delay](https://github.com/ScottXiong/scott_English/blob/master/files/delay.md)
 - [mistake](https://github.com/ScottXiong/scott_English/blob/master/files/mistake.md)
 - [test](https://github.com/ScottXiong/scott_English/blob/master/files/test.md)
+- [daily summary](https://github.com/ScottXiong/scott_English/blob/master/files/daily_summary.md)
 ### Other useful websites
 - [smartsheet](https://www.smartsheet.com)
 - [alexa](https://try.alexa.com)
