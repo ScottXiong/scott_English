@@ -1,5 +1,5 @@
 ### Usually we need to push sb for approavl.
-```
+
 The following files for those items below are under translation. Once it’s done, we will route the artwork to WMT for final approval.
 
 Any news on the the following artwork’s approval status?
@@ -76,4 +76,3 @@ We have proceeded with below artwork, which is approved by you via ProofHQ in jo
 
 
 
-```
