@@ -36,7 +36,13 @@
 - [stamen](https://stamen.com)
 - [onespeed](https://onespeed.io/blog/post/javascript-performance-lag/)
 
-
+### Daily Life
+- [animals]()
+- [plant]()
+- [flowers]()
+- [food]()
+- [stationery]()
+- []()
 ### To clarify one thing more clearly is not easy sometimes. Here are some e-mails I wrote before.
 - [eg-01](https://github.com/ScottXiong/scott_English/blob/master/hard/one.md)
 ### One [chat room](https://www.buy-express-vpn-in-cn.xyz/order) available for 24 hours, if you want to improve your English, just have a try like me!
