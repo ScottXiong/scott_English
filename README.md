@@ -38,10 +38,10 @@
 
 ### Daily Life
 - [animals](http://cn.bing.com/images/search?q=animals+worksheet&qpvt=animals+worksheet&FORM=IGRE)
-- [plant]()
-- [flowers]()
-- [food]()
-- [stationery]()
+- [plant](http://cn.bing.com/search?q=plant+worksheet&go=搜索&qs=n&form=QBRE&sp=-1&pq=plant+worksheet&sc=4-15&sk=&cvid=7E3D58361D354D9589837900A7E33735)
+- [flowers](http://cn.bing.com/images/search?q=flower+worksheet&go=搜索&qs=n&form=QBIDMH&sp=-1&pq=flower+worksheet&sc=5-16&sk=&cvid=C67D47D520CB4D939CED4800DD111B41)
+- [food](http://cn.bing.com/images/search?q=food+worksheets&go=搜索&qs=n&form=QBIR&sp=-1&pq=food+worksheets&sc=8-15&sk=&cvid=5B79338D2A5B4104930B8EB5A4933F9A)
+- [stationery](http://cn.bing.com/images/search?q=stationery+worksheets&go=搜索&qs=n&form=QBIR&sp=-1&pq=stationery+worksheets&sc=0-21&sk=&cvid=E6CF57367D544E46A3F9A253765D3508)
 - []()
 ### To clarify one thing more clearly is not easy sometimes. Here are some e-mails I wrote before.
 - [eg-01](https://github.com/ScottXiong/scott_English/blob/master/hard/one.md)
