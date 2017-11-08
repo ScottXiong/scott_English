@@ -24,13 +24,14 @@ If data on PF does NOT match kick off form, BMK must then send both to Walmart C
 11. Upon approval, final art released<br>
 
 <hr>
-**NOTES:**<br>
-* Do not start work on anything without a kickoff list<br>
-* If data in Packaging Form does not match kickoff, notify WMT packaging team of any discrepancy<br>
-* Step 5 - if supplier does not sign back within 3 days, notify Walmart Canada<br>
-*A slightly different process may apply to GV items we handle through Elizabeth’e team at the moment<br>
+## Notes
+- Do not start work on anything without a kickoff list<br>
+- If data in Packaging Form does not match kickoff, notify WMT packaging team of any discrepancy<br>
+- Step 5 - if supplier does not sign back within 3 days, notify Walmart Canada<br>
+- A slightly different process may apply to GV items we handle through Elizabeth’e team at the moment<br>
 <hr>
-**Note:** <br>
+
+## relationship
 Walmart Canada Packaging Team = Greg V, Wendy, and Rosemary<br>
 
 Packaging Specialist = Wendy, Rosemary<br>
