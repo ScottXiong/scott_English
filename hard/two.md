@@ -1,5 +1,5 @@
 
-## [The upload speed is slow-issue]
+## The upload speed is slow-issue
 
 We do everything we can to make sure your transfers are at optimal speed on our side. If you're experiencing a slow upload, it most likely has something to do with your Internet service provider (ISP) or network connection or perhaps there is something blocking our connection from performing correctly. <br>
 
