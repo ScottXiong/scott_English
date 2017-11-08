@@ -1,16 +1,15 @@
 ### Advertisement for each holiday
 > Easter
 
-Remove all cords,tags,labels before giving to children. －－》  cords 用灯芯绒做的衣物;（细）绳( cord的名词复数 );灯心绒裤;索线，tags贴纸
+- Remove all cords,tags,labels before giving to children. －－》  cords 用灯芯绒做的衣物;（细）绳( cord的名词复数 );灯心绒裤;索线，tags贴纸
 dotted lines 虚线
-
 nutrition facs 营养细胞
 total fat 脂肪
 sodium  美 [ˈsoʊdiəm]  钠
 total carbohydrate 碳水化合物
 protein 蛋白质
 spring fall 春天，秋天
-dory美 [ˈdɔri, ˈdori]   平底的小渔船，海鲂 Marlin: Dory! Heaven knows what you're saying!   The question is, Dory, are you hungry?
+dory美 [ˈdɔri, ˈdori]   平底的小渔船，海鲂 Marlin: Dory! Heaven knows what you're saying! --->  The question is, Dory, are you hungry?
 fish soup 鱼汤The fish soup was made with sea bream, sea bass and John dory  —>be made with … 由。。组成
 jelly beans 果冻豆 Wait a second. I forgot my jelly beans
 pixar n皮克斯公司，她制作了世界上第一部全电脑动画电影<玩具总动员>
