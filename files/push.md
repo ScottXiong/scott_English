@@ -4,7 +4,7 @@
 
 - Any news on the the following artwork’s approval status?
  
-D07PD_17081203_LightUpTicTacToe_95857_BX_R
+D07PD_17081203_LightUpTicTacToe_95857_BX_R <br>
 D07PD_17081204_MyFirstWaterSlide_82256_BX_R—Please note that period is needed behind inch, and please provide the photo without background(without the children) 
 
 <hr>
@@ -14,6 +14,7 @@ Could you please check if you still have comments on artwork? If no, can we send
 
 And we were told by WMT that this timeline for this program is very tight, we need your quick action on this.
 <hr>
+
 - When I open the link I don’t I see any files which are available to download. Could you please check? Attached is for your reference.
 
 - For these PDQs, we are still waiting for the approval from buyer Elizabeth Hernandez, could you please help to follow up with Elizabeth Hernandez? Thanks.
