@@ -1,5 +1,4 @@
 ### Beautiful Sentences For Business
-```
 Hope you have a nice weekend/day. --Friday
 Hope you had a nice weekend/day.  --Monday
 
@@ -229,4 +228,4 @@ We’re received a request from Walmart Canada on GlitterBeachBall_AT6148B- the
 The more feedback we get from you, the better our work will be.
 从观众那儿得到的反馈越多越好。
 
-```
+
