@@ -8,10 +8,14 @@ sodium  美 [ˈsoʊdiəm]  钠<br>
 total carbohydrate 碳水化合物<br>
 protein 蛋白质<br>
 spring fall 春天，秋天<br>
+
 dory美 [ˈdɔri, ˈdori]   平底的小渔船，海鲂 Marlin: Dory! Heaven knows what you're saying! --->  The question is, Dory, are you hungry?<br>
+
 fish soup 鱼汤The fish soup was made with sea bream, sea bass and John dory  —>be made with … 由。。组成<br>
+
 jelly beans 果冻豆 Wait a second. I forgot my jelly beans<br>
 pixar n皮克斯公司，她制作了世界上第一部全电脑动画电影<玩具总动员><br>
+
 The Pixar movie studio would go on to create movies like Toy Story and Finding Nemo.Pixar电影工作室将继续创作像《玩具总动员》和《海底总动员》这样的电影。<br>
 
 suffocation 美 [ˌsʌfə'keɪʃn] n窒息 <br>
@@ -71,6 +75,7 @@ carriage 马车 <br>
 playpens （供幼儿在内玩耍的）护栏( playpen的名词复数 ) <br>
 
 For decoration indoor use only. This is not a toy. <br>
+
 Keep away from heat sources and open flames. 火焰 <br>
 
 burlap 美 [ˈbɜ:rlæp] n(由黄麻制的做麻袋等用的）粗麻布 <br>
