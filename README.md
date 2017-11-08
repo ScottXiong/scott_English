@@ -10,6 +10,7 @@
 - [daily](https://github.com/ScottXiong/scott_English/blob/master/files/daily.md)
 - [phrase](https://github.com/ScottXiong/scott_English/blob/master/files/phrase.md)
 - [greeting](https://github.com/ScottXiong/scott_English/blob/master/files/greeting.md)
+- [status](https://github.com/ScottXiong/scott_English/blob/master/files/status.md)
 
 
 ### Other useful websites
