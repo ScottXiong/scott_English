@@ -9,6 +9,8 @@
 - [tipically](https://github.com/ScottXiong/scott_English/blob/master/files/tipically.md)
 - [daily](https://github.com/ScottXiong/scott_English/blob/master/files/daily.md)
 - [phrase](https://github.com/ScottXiong/scott_English/blob/master/files/phrase.md)
+- [greeting](https://github.com/ScottXiong/scott_English/blob/master/files/greeting.md)
+<hr>
 ### Other useful websites
 - [smartsheet](https://www.smartsheet.com)
 - [alexa](https://try.alexa.com)
@@ -24,7 +26,7 @@
 - [proofHQ](https://resources.workfront.com/workfront-for-it-teams)
 - [stamen](https://stamen.com)
 - [onespeed](https://onespeed.io/blog/post/javascript-performance-lag/)
-
+<hr>
 ### To clarify one thing more clearly is not easy sometimes. Here are some e-mails I wrote before.
 - [eg-01](https://github.com/ScottXiong/scott_English/blob/master/hard/one.md)
 ### One [chat room](https://www.buy-express-vpn-in-cn.xyz/order) available for 24 hours, if you want to improve your English, just have a try like me!
