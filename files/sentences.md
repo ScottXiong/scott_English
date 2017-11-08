@@ -1,38 +1,43 @@
 ### Beautiful Sentences For Business
-Hope you have a nice weekend/day. --Friday
-Hope you had a nice weekend/day.  --Monday
+Hope you have a nice weekend/day. --Friday <br>
+Hope you had a nice weekend/day.  --Monday <br>
 
-Here are a couple options for the BPA logo placement. Please let us know which one you prefer?
+Here are a couple options for the BPA logo placement. Please let us know which one you prefer?<br>
 
-Noted that BMK has followed up - please include me on emails so I’m aware of the status and help BMK to get info from vendor.
+Noted that BMK has followed up - please include me on emails so I’m aware of the status and help BMK to get info from vendor.<br>
 
 Paige is off duty at the moment - as far as I know, the team has followed up with Grand Bonanza a number of times. 
-They changed the main contact to Daniel Cheng - and I believe in the most recent email,  they told us to stand by, as they were waiting on confirmation on the color of the charger.
+They changed the main contact to Daniel Cheng - and I believe in the most recent email,  they told us to stand by, as they were waiting on confirmation on the color of the charger.<br>
 
+<hr>
 Hi Team,
 You dropped the HW18 Style Guide and also the HW18 “Costume” Style Guide to my ftp over the last couple of days.  Please confirm these docs contain the correct info approved by Delandra.
 Also please send me the updated “locked” HW18 Mockup Guide please.
+<hr>
+Thanks for your e-mail and received the die lines, please fill in attached packaging form and send back to us, thanks.<br>
 
-Thanks for your e-mail and received the die lines, please fill in attached packaging form and send back to us, thanks.
+Here is the quotation for your items, please check and sign back to us.<br>
 
-Here is the quotation for your items, please check and sign back to us.
+If you have any questions, please let us know.<br>
 
-If you have any questions, please let us know.
+Note that our team also pushed GRAND BONANZA on the 23rd, the 25th, and the 29th. We will CC you next time we push them.<br>
 
-Note that our team also pushed GRAND BONANZA on the 23rd, the 25th, and the 29th. We will CC you next time we push them.
+We have downloaded the die lines from FTP you uploaded, but still missing die lines from your side. Please see attached excel file i marked in yellow, thanks.<br>
 
-We have downloaded the die lines from FTP you uploaded, but still missing die lines from your side. Please see attached excel file i marked in yellow, thanks.
+You can add it in the last column in section 3.<br>
 
-You can add it in the last column in section 3.
-
-Please check attached screen shots, and advise if 。。。。
-
+Please check attached screen shots, and advise if 。。。。<br>
+<hr>
 Hi Ivy,
 Thank you for the guide!  Mine was outdated..
 I apologize for not catching these changes the first time.  US measurements should be capped.
-——————————10/11——————————
-OK - you mentioned some were rush… typically Walmart doesn’t want sets of files broken up. If you can get us comments on the whole set today, we can revise and re-route to Walmart all at once...
-－－－－－－－－－－－－－－10/16/2017-－－－－－－－－－－－－
+<hr>
+
+### 10/11/2017 
+OK - you mentioned some were rush… typically Walmart doesn’t want sets of files broken up. If you can get us comments on the whole set today, we can revise and re-route to Walmart all at once... <br>
+
+### 10/16/2017
+<hr>
 HI Justin,
 
 Thanks for your email. We did work on some foil SKUs for Melissa a few months back. I have attached them for you. Please let us know if these are what you want. 
@@ -43,9 +48,9 @@ D04GV_1703U703_AluminumFoil_AF100_BX_R1T
 D04GV_1703U704_HeavyDutyAluminumFoil_AF18P_BX_R1T
 
 Thank you.
+<hr>
 
-
-Did you get any updates on this job?
+Did you get any updates on this job? 
 
 Best Regards
  
