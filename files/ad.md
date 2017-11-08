@@ -1,6 +1,5 @@
 ### Advertisement for each holiday
-```
-－－－－－－－－－－－－－FOR EASTER－－－－－－－－－－－－－－
+> Easter
 Remove all cords,tags,labels before giving to children. －－》  cords 用灯芯绒做的衣物;（细）绳( cord的名词复数 );灯心绒裤;索线，tags贴纸
 dotted lines 虚线
 
@@ -45,7 +44,8 @@ assembled in usa  集合，组装
 ingredients 成分
 
 quality guarantee 质量保证
-－－－－－－－－－－－－－－－－－－－－－－10/28／start－－－－－－－－－－－－－－－
+<hr>
+### 10/28/2017
 For decorative indoor use only. This is not a toy.
 
  manufacture 制造 美 [ˌmænjəˈfæktʃɚ]   date of manufacture 生产日期
@@ -114,5 +114,5 @@ pump blaster 泵冲击波
 trademark 商标™️
 flyer 飞行员，飞鸟，传单
 dive rings 潜水环
-－－－－－－－－－－－－－－－－－－10/28（end）－－－－－－－－－－－－－－－－
-```
+
+
