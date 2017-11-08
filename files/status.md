@@ -1,0 +1,1 @@
+- Noted your approval on draft files, we will move to translation for those files.
