@@ -9,6 +9,8 @@ finalize vt定稿，完成
 stationery 文具
 push 催
 drop/route/upload file via ftp／qq／weChat
+Well received.
+The files have been forwarded to my colleague for approval. Thank you for the extra work.
 
 tree trunk leaf（leaves） stump 树桩
 snack bags 零食袋
