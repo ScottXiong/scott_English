@@ -7,6 +7,7 @@
 - [AD](https://github.com/ScottXiong/scott_English/blob/master/files/ad.md)
 - [work](https://github.com/ScottXiong/scott_English/blob/master/files/work.md)
 - [tipically](https://github.com/ScottXiong/scott_English/blob/master/files/tipically.md)
+- [daily](https://github.com/ScottXiong/scott_English/blob/master/files/daily.md)
 
 ### Other useful websites
 - [smartsheet](https://www.smartsheet.com)
