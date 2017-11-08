@@ -1,7 +1,6 @@
 ### Advertisement for each holiday
-#### Easter
 Remove all cords,tags,labels before giving to children. －－》  cords 用灯芯绒做的衣物;（细）绳( cord的名词复数 );灯心绒裤;索线，tags贴纸 <br>
-<hr>
+
 dotted lines 虚线<br>
 nutrition facs 营养细胞<br>
 total fat 脂肪<br>
@@ -46,77 +45,78 @@ quality guarantee 质量保证<br>
 <hr>
 
 ### 10/28/2017
-For decorative indoor use only. This is not a toy.
-manufacture 制造 美 [ˌmænjəˈfæktʃɚ]   date of manufacture 生产日期
-fabricator 美 ['fæbrɪˌkeɪtə] 制作者;捏造者;假造者;杜撰者  fabricator’s name 厂商
-composition  美 [ˌkɑ:mpəˈzɪʃn]  作文，作曲;创作;构图，布置;妥协，和解
-complies with 。。。符合，遵守
+For decorative indoor use only. This is not a toy.  <br>
+manufacture 制造 美 [ˌmænjəˈfæktʃɚ]   date of manufacture 生产日期 <br>
+fabricator 美 ['fæbrɪˌkeɪtə] 制作者;捏造者;假造者;杜撰者  fabricator’s name 厂商 <br>
+composition  美 [ˌkɑ:mpəˈzɪʃn]  作文，作曲;创作;构图，布置;妥协，和解 <br>
+complies with 。。。符合，遵守 <br>
 
-Harvest Time／Fall Harvest 丰收节 
-pumpkin 南瓜
-6-foot garland 花环
-sunflower 向日葵
-blessings 祝福
-For decoration indoor use only.
-reusable&washable 可重复使用的&可洗的
-Gel Clings 凝胶紧贴
-hazard n 危险，v冒险 美 [ˈhæzərd]  Chocking hazard-small parts. Not for children under 3 years.
+Harvest Time／Fall Harvest 丰收节  <br>
+pumpkin 南瓜 <br>
+6-foot garland 花环 <br>
+sunflower 向日葵 <br>
+blessings 祝福 <br>
+For decoration indoor use only. <br>
+reusable&washable 可重复使用的&可洗的 <br>
+Gel Clings 凝胶紧贴 <br>
+
+hazard n 危险，v冒险 美 [ˈhæzərd]  Chocking hazard-small parts. Not for children under 3 years. <br>
 
 Warning:
-To avoid danger of suffocation, keep this bags aways from babies and unsupervised （无人监督的）children. Do not use in cribs, beds, carriages or playpens. This bag is not a toy. knot bag before throwing away.
+To avoid danger of suffocation, keep this bags aways from babies and unsupervised （无人监督的）children. Do not use in cribs, beds, carriages or playpens. This bag is not a toy. knot bag before throwing away. <br>
 
-knot 美 [nɑ:t]  结，打结
-cribs 婴儿床
-carriage 马车
-playpens （供幼儿在内玩耍的）护栏( playpen的名词复数 )
+knot 美 [nɑ:t]  结，打结 <br>
+cribs 婴儿床 <br>
+carriage 马车 <br>
+playpens （供幼儿在内玩耍的）护栏( playpen的名词复数 ) <br>
 
-For decoration indoor use only. This is not a toy.
-Keep away from heat sources and open flames. 火焰
+For decoration indoor use only. This is not a toy. <br>
+Keep away from heat sources and open flames. 火焰 <br>
 
-burlap 美 [ˈbɜ:rlæp] n(由黄麻制的做麻袋等用的）粗麻布
-pick 挑选，挑剔
-Autumn Greetings 秋天问候
-accent 口音 美 [ˈækˌsɛnt] 
-rollback 回降，回滚   （超市里面降价常打这个标志low price）
-scarecrow  美 [ˈskerkroʊ]  （竖在田里吓鸟的）稻草人; straw稻草
-berry pick 浆果采摘
-flower clip 花夹
-pine cones松树的球果
-leaf pick 摘叶
-flower pots 花盆
-sprays浪花;喷雾器;喷雾( spray的名词复数 );（用作装饰的）小树枝
-centerpieces 摆设
-gourd  美 [gʊrd] 葫芦 pumpkins & gourds
-floral spray 花枝
-tableware 餐具
-glitter美 [ˈɡlɪtɚ] 闪烁
-props 道具 consumption 美 [kənˈsʌmpʃən] 消费;肺病;耗尽;[医学]消耗性疾病
+burlap 美 [ˈbɜ:rlæp] n(由黄麻制的做麻袋等用的）粗麻布 <br>
+pick 挑选，挑剔 <br>
+Autumn Greetings 秋天问候 <br>
+accent 口音 美 [ˈækˌsɛnt]  <br>
+rollback 回降，回滚   （超市里面降价常打这个标志low price） <br>
+scarecrow  美 [ˈskerkroʊ]  （竖在田里吓鸟的）稻草人; straw稻草 <br>
+berry pick 浆果采摘 <br>
+flower clip 花夹 <br>
+pine cones松树的球果 <br>
+leaf pick 摘叶 <br>
+flower pots 花盆 <br>
+sprays浪花;喷雾器;喷雾( spray的名词复数 );（用作装饰的）小树枝 <br>
+centerpieces 摆设 <br>
+gourd  美 [gʊrd] 葫芦 pumpkins & gourds <br>
+floral spray 花枝 <br>
+tableware 餐具 <br>
+glitter美 [ˈɡlɪtɚ] 闪烁 <br>
+props 道具 consumption 美 [kənˈsʌmpʃən] 消费;肺病;耗尽;[医学]消耗性疾病 <br>
 
-Decorative props not included. Not for human or animal consumption.
+Decorative props not included. Not for human or animal consumption. <br>
 
-wreath  美 [riθ] 花环
+wreath  美 [riθ] 花环 <br>
 
-critters 小动物Lizards and other cold-blooded critters bask in the sun to keep warm. 蜥蜴和其他冷血生物都会晒晒太阳，以保持温暖。
+critters 小动物Lizards and other cold-blooded critters bask in the sun to keep warm. 蜥蜴和其他冷血生物都会晒晒太阳，以保持温暖。 <br>
 
-bucket 美 [ˈbʌkɪt] 水桶
-phase 2 第二条规定
-fabric 织物 decorative fabric 
-Please verify your e-mail. 验证
-Paper Straws 纸吸管
-table cover 桌布
-candle 蜡烛 birthday candle set
-favor pack 支持包 sticker 表情包           princess favor pack  公主
-balloon气球
-bulb 电灯泡
-8－SIDES 8个面
-FAMILY POOR 家庭游泳池 
-transparent 透明的，清澈的
-3-ring poor 3个环的游泳池
-ring 戒指💍
-5 pack 5包
-pump blaster 泵冲击波
-trademark 商标™️
-flyer 飞行员，飞鸟，传单
-dive rings 潜水环
+bucket 美 [ˈbʌkɪt] 水桶 <br>
+phase 2 第二条规定 <br>
+fabric 织物 decorative fabric  <br>
+Please verify your e-mail. 验证 <br>
+Paper Straws 纸吸管 <br>
+table cover 桌布 <br>
+candle 蜡烛 birthday candle set <br>
+favor pack 支持包 sticker 表情包           princess favor pack  公主 <br>
+balloon气球 <br>
+bulb 电灯泡 <br>
+8－SIDES 8个面 <br>
+FAMILY POOR 家庭游泳池  <br>
+transparent 透明的，清澈的 <br>
+3-ring poor 3个环的游泳池 <br>
+ring 戒指💍 <br>
+5 pack 5包 <br>
+pump blaster 泵冲击波 <br>
+trademark 商标™️ <br>
+flyer 飞行员，飞鸟，传单 <br>
+dive rings 潜水环 <br>
 
 
