@@ -1,4 +1,4 @@
-1.当不明白客人想表达什么意思时：We are sorry, we can’t catch what you are asking below. <br>
+[1.当不明白客人想表达什么意思时]()：We are sorry, we can’t catch what you are asking below. <br>
 2.请客人提供不转曲的文件：We have downloaded the AI files, the English text and art have been outlined, could you please provide the non-outlined AI files?
 <br>
 3.询问客人by 和 for 的问题：NOTE: Walmart Canada Import Information (for Domestic items 'Imported for' for Direct Imports 'Imported by'), which will be used for your items?
