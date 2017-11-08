@@ -1,7 +1,7 @@
 ### Advertisement for each holiday
 #### Easter
-
-1. Remove all cords,tags,labels before giving to children. －－》  cords 用灯芯绒做的衣物;（细）绳( cord的名词复数 );灯心绒裤;索线，tags贴纸 <br>
+Remove all cords,tags,labels before giving to children. －－》  cords 用灯芯绒做的衣物;（细）绳( cord的名词复数 );灯心绒裤;索线，tags贴纸 <br>
+<hr>
 dotted lines 虚线<br>
 nutrition facs 营养细胞<br>
 total fat 脂肪<br>
@@ -22,6 +22,7 @@ For ages 3 & up.<br>
 <br>
 Once you shop…you can’t stop.<br>
 marshmallow美 [ˈmɑ:rʃmeloʊ] 棉花糖<br>
+
 Distributed by Frankford Candy LLC<br>
 PHILADELPHIA, PA 19114 USA<br>
 Visit us at www.frankfordcandy.com<br>
@@ -40,16 +41,14 @@ contains: doodle pad, spiral ruler, colored pencils. crayons, markers, coloring 
 3 candy packs<br>
 
 assembled in usa  集合，组装<br>
-
 ingredients 成分<br>
-
 quality guarantee 质量保证<br>
 <hr>
+
 ### 10/28/2017
 For decorative indoor use only. This is not a toy.
-
- manufacture 制造 美 [ˌmænjəˈfæktʃɚ]   date of manufacture 生产日期
- fabricator 美 ['fæbrɪˌkeɪtə] 制作者;捏造者;假造者;杜撰者  fabricator’s name 厂商
+manufacture 制造 美 [ˌmænjəˈfæktʃɚ]   date of manufacture 生产日期
+fabricator 美 ['fæbrɪˌkeɪtə] 制作者;捏造者;假造者;杜撰者  fabricator’s name 厂商
 composition  美 [ˌkɑ:mpəˈzɪʃn]  作文，作曲;创作;构图，布置;妥协，和解
 complies with 。。。符合，遵守
 
@@ -65,16 +64,17 @@ hazard n 危险，v冒险 美 [ˈhæzərd]  Chocking hazard-small parts. Not for
 
 Warning:
 To avoid danger of suffocation, keep this bags aways from babies and unsupervised （无人监督的）children. Do not use in cribs, beds, carriages or playpens. This bag is not a toy. knot bag before throwing away.
+
 knot 美 [nɑ:t]  结，打结
- cribs 婴儿床
+cribs 婴儿床
 carriage 马车
 playpens （供幼儿在内玩耍的）护栏( playpen的名词复数 )
+
 For decoration indoor use only. This is not a toy.
 Keep away from heat sources and open flames. 火焰
 
 burlap 美 [ˈbɜ:rlæp] n(由黄麻制的做麻袋等用的）粗麻布
 pick 挑选，挑剔
-
 Autumn Greetings 秋天问候
 accent 口音 美 [ˈækˌsɛnt] 
 rollback 回降，回滚   （超市里面降价常打这个标志low price）
@@ -91,9 +91,13 @@ floral spray 花枝
 tableware 餐具
 glitter美 [ˈɡlɪtɚ] 闪烁
 props 道具 consumption 美 [kənˈsʌmpʃən] 消费;肺病;耗尽;[医学]消耗性疾病
-Decorative props not included. Not for human or animal consumption. 
+
+Decorative props not included. Not for human or animal consumption.
+
 wreath  美 [riθ] 花环
+
 critters 小动物Lizards and other cold-blooded critters bask in the sun to keep warm. 蜥蜴和其他冷血生物都会晒晒太阳，以保持温暖。
+
 bucket 美 [ˈbʌkɪt] 水桶
 phase 2 第二条规定
 fabric 织物 decorative fabric 
