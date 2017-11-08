@@ -19,7 +19,7 @@
 ### Brands
 - [CA](https://github.com/ScottXiong/scott_English/blob/master/files/CA.md)
 ### flows
-- [CAN(new)](https://github.com/ScottXiong/scott_English/blob/master/files/canada_flow.md)
+- [CAN](https://github.com/ScottXiong/scott_English/blob/master/files/canada_flow.md)(new)
 ### Other useful websites
 - [smartsheet](https://www.smartsheet.com)
 - [alexa](https://try.alexa.com)
