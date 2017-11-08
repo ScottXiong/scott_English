@@ -1,0 +1,33 @@
+Hi Scott, John, <br>
+
+我们即将会开始WMT CAN CA (Canadiana) 2018 Spring系列:<br>
+
+Ing Lim (Buyer), Teresa Isabella (PD), Wendy Chan (Packaging Specialist)<br>
+
+请注意流程，<br>
+
+1,等客人将pf发给我们（因为我们已经发了pf给客人去填写），我们要将客人提供的pf和WMT给的kick off表(附件就是wmt发过来的）进行核对，然后用SIMON电脑上面的我们的cwmt邮箱将客人提供的pf和WMT给的kick off表给Packaging Specialis (wendy）（给哪一家客人的kick off时，请将其它客人的资料先删掉，只保留你发的那一家客人的），如果客人提供的pf和WMT给的kick off表有差别，请说明是什么不同，如果一样，请说明一下，说这两个是一样的
+<br>
+2, 等Packaging Specialist (wendy）确认客人的pf后，我们开始做稿，流单给设计师<br>
+
+3,设计师流单过来，看看有没有确认报价，如果没有，等确认报价，如果报价确认，要将合并的初稿给Packaging Specialist (wendy）确认和greg vandenbrink (reviewer)
+<br>
+4, Packaging Specialis (wendy）确认没有任何修改，那么可以直接在proof上面share 给以下wmt的人及客人确认，如果Packaging Specialist (wendy）有改，那么要改，且让设计师重新准备档案上传new version给wmt及客人确认如果Packaging Specialist (wendy）是approved with changes,否则给回Packaging Specialist (wendy）修改稿再次确认。下面是当给wmt的其它人及客人确认的明细，ProofHQ 上面的subject (这个是wmt第一次确认，档案上面是没有翻译的，那么要加上 Pre-translation）: CA2018/SupplierName/JobNumber - Pre-translation
+<br>
+Moderator Decision: service<br>
+Moderator, disabled: Chris, Darla <br>
+Reviewer, decisions:greg.vandenbrink@walmart.com，lindsay.resendes@walmart.com<br>
+Reviewer & Approver, disabled: cawmpackaging@walmart.com<br>
+Reviewer & Approver, decisions: nazeema.mohabir@walmart.com, ing.lim@walmart.com，teresa.isabella@walmart.com， 客人<br>
+
+5, 上面的Reviewer & Approver都确认后，送翻译（plg）,然后翻译回来，加翻译，只给 cawmpackaging@walmart.com （Packaging Specialist (wendy）和客人最后确认，ProofHQ 上面的subject（这个是给wmt最后确认，档案上面加了翻译了，那么要加上Post-translation）: CA2018/SupplierName/JobNumber - Post-translation
+<br>
+6, cawmpackaging@walmart.com （Packaging Specialist (wendy）和客人最后确认后，我们给最终稿，结束<br>
+
+Thanks & Best Regards<br>
+ 
+Judy Zhao<br>
+========================<br>
+BMK//AHI International, Ltd.<br>
+Tel: +86  769-8176-0350 / 8507-7650 / 8176-0348<br>
+Fax: +86  769-8176-0349<br>
