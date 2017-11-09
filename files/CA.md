@@ -8,10 +8,10 @@ Ing Lim (Buyer), Teresa Isabella (PD), Wendy Chan (Packaging Specialist)<br>
 
 1,等客人将pf发给我们（因为我们已经发了pf给客人去填写），我们要将客人提供的pf和WMT给的kick off表(附件就是wmt发过来的）进行核对，然后用SIMON电脑上面的我们的cwmt邮箱将客人提供的pf和WMT给的kick off表给Packaging Specialis (wendy）（给哪一家客人的kick off时，请将其它客人的资料先删掉，只保留你发的那一家客人的），如果客人提供的pf和WMT给的kick off表有差别，请说明是什么不同，如果一样，请说明一下，说这两个是一样的<br>
 <br>
-### email
-Receipt:Yuklam.Chan@walmart.com<br>
-CC: chris,service,Greg.Vandenbrink@walmart.com<br>
-Subject：Packaging Form Confirmation/Canadiana spring 2018/UNIEK/Week 8<br>
+### use email
+Receipt:  Yuklam.Chan@walmart.com<br>
+CC:   chris,service,Greg.Vandenbrink@walmart.com<br>
+Subject： Packaging Form Confirmation/Canadiana spring 2018/UNIEK/Week 8<br>
 
 Hi Wendy,<br>
 
@@ -105,7 +105,8 @@ Reviewer & Approver, daily summery: nazeema.mohabir@walmart.com, ing.lim@walmart
      <td>greg.vandenbrink@walmart.com</td>
      <td>Reviewer,Disabled</td>
    </tr>
-  <tr>
+   <tr><td colspall="2">Once WMT approve it, we should add the people below from next round</td></tr>
+  <tr>
      <td>lindsay.resendes@walmart.com</td>
      <td>Reviewer,Disabled</td>
    </tr>
@@ -137,6 +138,27 @@ Reviewer & Approver, daily summery: nazeema.mohabir@walmart.com, ing.lim@walmart
    <tr>
  </tbody>
 </table>
+<hr>
+### Subject:  CA18_C171110_NEM.pdf (Version 2); CA2018/Nemcor/C171110-Pre-translation
+
+Hi Wendy, Nazeema, Ing, Teresa, Caroline, <br>
+
+The following 7 files are for your first review:<br>
+
+Note to Caroline: Please provide the stock number and UPC.<br>
+
+D17CA_17111001_PicnicBlanket_XXXX_HT_R<br>
+D17CA_17111002_AdventuresCushion_XXXX_HT_R<br>
+D17CA_17111003_PhotorealCushion_XXXX_HT_R<br>
+D17CA_17111004_MooseCushion_XXXX_HT_R<br>
+D17CA_17111005_True-NorthCushion_XXXX_HT_R<br>
+D17CA_17111006_LakesideSammy_XXXX_HT_R<br>
+D17CA_17111007_PicnicBlanket_XXXX_LB_R<br>
+
+Program: Canadiana <br>
+Supplier: Nemcor Inc. <br>
+Buyer: Ing Lim (D17)<br>
+Status: for approval<br>
 <hr>
 5, 上面的Reviewer & Approver都确认后，送翻译（plg）,然后翻译回来，加翻译，只给 cawmpackaging@walmart.com （Packaging Specialist (wendy）和客人最后确认，ProofHQ 上面的subject（这个是给wmt最后确认，档案上面加了翻译了，那么要加上Post-translation）:<br> CA2018/SupplierName/JobNumber - Post-translation<br>
 <br>
