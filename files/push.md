@@ -9,7 +9,7 @@ D07PD_17081203_LightUpTicTacToe_95857_BX_R <br>
 D07PD_17081204_MyFirstWaterSlide_82256_BX_R---Please note that period is needed behind inch, and please provide the photo without background(without the children) 
 
 <hr>
-Hi Maggie,
+Hi Maggie,<br>
 
 Could you please check if you still have comments on artwork? If no, can we send to WMT for approval?
 
