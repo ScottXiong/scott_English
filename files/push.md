@@ -1,4 +1,5 @@
 ### Usually we need to push sb for approavl.
+- Is there any news about FeatherBoaSwimRing? We were told that the timeline is urgent and now it’s the only one item which is unresolved. Please double check and help to confirm.
 
 - The following files for those items below are under translation. Once it’s done, we will route the artwork to WMT for final approval.
 
