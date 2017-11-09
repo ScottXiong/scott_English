@@ -6,7 +6,7 @@
 - Any news on the the following artwork’s approval status?
  
 D07PD_17081203_LightUpTicTacToe_95857_BX_R <br>
-D07PD_17081204_MyFirstWaterSlide_82256_BX_R—Please note that period is needed behind inch, and please provide the photo without background(without the children) 
+D07PD_17081204_MyFirstWaterSlide_82256_BX_R---Please note that period is needed behind inch, and please provide the photo without background(without the children) 
 
 <hr>
 Hi Maggie,
