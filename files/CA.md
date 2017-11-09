@@ -12,6 +12,7 @@ Ing Lim (Buyer), Teresa Isabella (PD), Wendy Chan (Packaging Specialist)<br>
 Receipt:Yuklam.Chan@walmart.com<br>
 CC: chris,service,Greg.Vandenbrink@walmart.com<br>
 Subject：Packaging Form Confirmation/Canadiana spring 2018/UNIEK/Week 8<br>
+
 Hi Wendy,<br>
 
 Please check and confirm the attached packaging form and advise if we can proceed now. Attached kick off list is for your reference.<br>
