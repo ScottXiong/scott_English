@@ -105,7 +105,7 @@ Reviewer & Approver, daily summery: nazeema.mohabir@walmart.com, ing.lim@walmart
      <td>greg.vandenbrink@walmart.com</td>
      <td>Reviewer,Disabled</td>
    </tr>
-   <tr><td colspan="2">Once WMT approve it, we should add the people below from next round</td></tr>
+   <tr><td colspan="2" style="color:red;">Once WMT approve it, we should add the people below from next round</td></tr>
   <tr>
      <td>lindsay.resendes@walmart.com</td>
      <td>Reviewer,Disabled</td>
@@ -139,6 +139,7 @@ Reviewer & Approver, daily summery: nazeema.mohabir@walmart.com, ing.lim@walmart
  </tbody>
 </table>
 <hr>
+
 ### Subject:  CA18_C171110_NEM.pdf (Version 2); CA2018/Nemcor/C171110-Pre-translation
 
 Hi Wendy, Nazeema, Ing, Teresa, Caroline, <br>
