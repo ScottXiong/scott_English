@@ -2,7 +2,7 @@
 - hold on
 <hr>
 Dear Judy, <br>
- 
+ <br>
 We will send out the 2pcs mesh bath support<br>
  2pcs booster seat (1pc with white color mock up buckle<br>
 & 1pc with black color similar buckle).<br>
