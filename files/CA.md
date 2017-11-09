@@ -8,7 +8,7 @@ Ing Lim (Buyer), Teresa Isabella (PD), Wendy Chan (Packaging Specialist)<br>
 
 1,等客人将pf发给我们（因为我们已经发了pf给客人去填写），我们要将客人提供的pf和WMT给的kick off表(附件就是wmt发过来的）进行核对，然后用SIMON电脑上面的我们的cwmt邮箱将客人提供的pf和WMT给的kick off表给Packaging Specialis (wendy）（给哪一家客人的kick off时，请将其它客人的资料先删掉，只保留你发的那一家客人的），如果客人提供的pf和WMT给的kick off表有差别，请说明是什么不同，如果一样，请说明一下，说这两个是一样的<br>
 <br>
-
+### email
 Receipt:Yuklam.Chan@walmart.com<br>
 CC: chris,service,Greg.Vandenbrink@walmart.com<br>
 Subject：Packaging Form Confirmation/Canadiana spring 2018/UNIEK/Week 8<br>
@@ -28,7 +28,51 @@ Note: <br>
 2.等Packaging Specialist (wendy）确认客人的pf后，我们开始做稿，流单给设计师<br>
 
 3,设计师流单过来，看看有没有确认报价，如果没有，等确认报价，如果报价确认，要将合并的初稿给Packaging Specialist (wendy）确认和greg vandenbrink (reviewer)<br>
-
+### proofHQ
+<table>
+ <thead>
+    <tr>
+     <th>email</th><th>right</th>  
+    </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td>chris</td>
+     <td>Moderator,Disabled</td>
+   </tr>
+   <tr>
+     <td>darla</td>
+     <td>Moderator,Disabled</td>
+   </tr>
+   <tr>
+     <td>cawmpackaging@walmart.com</td>
+     <td>reviewer,approver;daily summery</td>
+   </tr>
+   <tr>
+     <td>greg.vandenbrink@walmart.com</td>
+     <td>reviewer,disabled</td>
+   </tr>
+ </tbody>
+</table>
+<hr>
+### subject:CA18_C171117_BIC.pdf (Version 1); CA2018/BICO/C171117
+### email
+Hi Wendy, <br>
+ 
+The following 3 DRAFT ARTWORK are for your first review:<br>
+ 
+D17CA_17111701_CanMugs_H3880-MB_LB_R<br>
+D17CA_17111702_Bowls_H3880-BB_LB_R<br>
+D17CA_17111703_DividerPlates_H3880-PB_LB_R<br>
+ 
+Program: Canadiana<br>
+Supplier: BICO INTERNATIONAL CO., LTD.<br>
+Buyer:  Ing Lim (D17)<br>
+Artwork due date: 11/15/2017<br>
+Shipdate: 01/03/2017<br>
+In-store date: 03/19/2017<br>
+Status:  for approval<br>
+<hr>
 4, Packaging Specialis (wendy）确认没有任何修改，那么可以直接在proof上面share 给以下wmt的人及客人确认，如果Packaging Specialist (wendy）有改，那么要改，且让设计师重新准备档案上传new version给wmt及客人确认如果Packaging Specialist (wendy）是approved with changes,否则给回Packaging Specialist (wendy）修改稿再次确认。下面是当给wmt的其它人及客人确认的明细，ProofHQ 上面的subject (这个是wmt第一次确认，档案上面是没有翻译的，那么要加上 Pre-translation）: CA2018/SupplierName/JobNumber - Pre-translation<br>
 
 Moderator Decision: service<br>
