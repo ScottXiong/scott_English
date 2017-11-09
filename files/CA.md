@@ -57,7 +57,7 @@ Note: <br>
 <hr>
 
 ### subject:CA18_C171117_BIC.pdf (Version 1); CA2018/BICO/C171117
-### email
+
 Hi Wendy, <br>
  
 The following 3 DRAFT ARTWORK are for your first review:<br>
