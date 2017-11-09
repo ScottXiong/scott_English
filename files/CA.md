@@ -20,6 +20,11 @@ Please check and confirm the attached packaging form and advise if we can procee
 NOTE: I have checked the product description, packaging type and the other info are all matched with the kick off list.
 <br>
 <hr>
+Note: <br>
+ 
+1. Only the product names are different, other info matches.<br>
+2. Vendor informed us they have confirmed with buyer that the PDQs are no longer needed. <br>
+<hr>
 2.等Packaging Specialist (wendy）确认客人的pf后，我们开始做稿，流单给设计师<br>
 
 3,设计师流单过来，看看有没有确认报价，如果没有，等确认报价，如果报价确认，要将合并的初稿给Packaging Specialist (wendy）确认和greg vandenbrink (reviewer)<br>
