@@ -1,1 +1,2 @@
 - Noted your approval on draft files, we will move to translation for those files.
+- Thanks for your email, we will process the artwork immediately.
