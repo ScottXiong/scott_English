@@ -105,7 +105,7 @@ Reviewer & Approver, daily summery: nazeema.mohabir@walmart.com, ing.lim@walmart
      <td>greg.vandenbrink@walmart.com</td>
      <td>Reviewer,Disabled</td>
    </tr>
-   <tr><td colspall="2">Once WMT approve it, we should add the people below from next round</td></tr>
+   <tr><td colspan="2">Once WMT approve it, we should add the people below from next round</td></tr>
   <tr>
      <td>lindsay.resendes@walmart.com</td>
      <td>Reviewer,Disabled</td>
