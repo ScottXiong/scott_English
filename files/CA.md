@@ -17,7 +17,7 @@ Hi Wendy,<br>
 
 Please check and confirm the attached packaging form and advise if we can proceed now. Attached kick off list is for your reference.<br>
 
-NOTE: I have checked that the product description, packaging type and the other info are all match the kick off list.
+NOTE: I have checked the product description, packaging type and the other info are all matched with the kick off list.
 <br>
 <hr>
 2.等Packaging Specialist (wendy）确认客人的pf后，我们开始做稿，流单给设计师<br>
