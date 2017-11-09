@@ -80,8 +80,64 @@ Moderator Decision: service<br>
 Moderator, disabled: Chris, Darla <br>
 Reviewer, decisions:greg.vandenbrink@walmart.com，lindsay.resendes@walmart.com<br>
 Reviewer & Approver, disabled: cawmpackaging@walmart.com<br>
-Reviewer & Approver, decisions: nazeema.mohabir@walmart.com, ing.lim@walmart.com，teresa.isabella@walmart.com， 客人<br>
-
+Reviewer & Approver, daily summery: nazeema.mohabir@walmart.com, ing.lim@walmart.com，teresa.isabella@walmart.com， 客人<br>
+<hr>
+<table>
+ <thead>
+    <tr>
+     <th>email</th><th>right</th>  
+    </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td>chris</td>
+     <td>Moderator,Disabled</td>
+   </tr>
+   <tr>
+     <td>darla</td>
+     <td>Moderator,Disabled</td>
+   </tr>
+   <tr>
+     <td>cawmpackaging@walmart.com</td>
+     <td>Reviewer,Approver;Daily Summery</td>
+   </tr>
+   <tr>
+     <td>greg.vandenbrink@walmart.com</td>
+     <td>Reviewer,Disabled</td>
+   </tr>
+  <tr>
+     <td>lindsay.resendes@walmart.com</td>
+     <td>Reviewer,Disabled</td>
+   </tr>
+   <tr>
+    <tr>
+     <td>nazeema.mohabir@walmart.com</td>
+     <td>Reviewer,Approver;Daily Summery</td>
+   </tr>
+   <tr>
+    <tr>
+     <td>ing.lim@walmart.com<br>ing虽作为buyer但是从不确认档案，其它人确认，就表示都确认了</td>
+     <td>Reviewer,Approver;Daily Summery</td>
+   </tr>
+   <tr>
+    <tr>
+     <td>teresa.isabella@walmart.com</td>
+     <td>Reviewer,Approver;Daily Summery</td>
+   </tr>
+   <tr>
+    <tr>
+     <td>supplier（main）</td>
+     <td>Reviewer,Approver;Daily Summery</td>
+   </tr>
+   <tr>
+    <tr>
+     <td>supplier（optional）</td>
+     <td>Reviewer，Decision</td>
+   </tr>
+   <tr>
+ </tbody>
+</table>
+<hr>
 5, 上面的Reviewer & Approver都确认后，送翻译（plg）,然后翻译回来，加翻译，只给 cawmpackaging@walmart.com （Packaging Specialist (wendy）和客人最后确认，ProofHQ 上面的subject（这个是给wmt最后确认，档案上面加了翻译了，那么要加上Post-translation）:<br> CA2018/SupplierName/JobNumber - Post-translation<br>
 <br>
 6, cawmpackaging@walmart.com （Packaging Specialist (wendy）和客人最后确认后，我们给最终稿，结束<br>
