@@ -23,17 +23,17 @@
   * need revise
 - [revised artwork]()
 - [route to WMT for approval]()
-  <ol>
-   <li>approve with chnages->go on next step</li>  
-   <li>change required->need revise</li>  
-   <li>approve->send for translation</li>  
-  </ol>
+   <ul>
+    <li>approve with chnages->go on next step</li>  
+    <li>change required->need revise</li>  
+    <li>approve->send for translation</li>  
+   </ul>
 - [move to translation]()
 - [send to supplier for final approval]()
-  <ol>
-   <li>change required->need rivise</li>  
-   <li>  * approve->release final artwork</li>  
-  </ol>
+   <ul>
+    <li>change required->need rivise</li>  
+    <li>approve->release final artwork</li>  
+   </ul>
 - [release final artwork]()
 
 ### Brands
