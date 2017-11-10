@@ -17,6 +17,7 @@
 - [daily summary](https://github.com/ScottXiong/scott_English/blob/master/files/daily_summary.md)
 - [packaging words](https://github.com/ScottXiong/scott_English/blob/master/files/packaging.md)
 - [note to supplier]()
+- [further info](https://github.com/ScottXiong/scott_English/blob/master/files/further.md)
 
 ### regular case flow
 - [quotation](https://github.com/ScottXiong/scott_English/blob/master/files/quotation.md)
