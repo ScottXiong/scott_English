@@ -20,16 +20,17 @@
 ### regular case flow
 - [quotation](https://github.com/ScottXiong/scott_English/blob/master/files/quotation.md)
 - [draft artwork]()
+  * need revise
 - [revised artwork]()
 - [route to WMT for approval]()
-   * approve with chnages
-   * change required
-   * approval
+   * approve with chnages->go on next step
+   * change required->need revise
+   * approve->send for translation
 - [move to translation]()
 - [send to supplier for final approval]()
   * change required->need rivise
-  * approved
-- [release final artwork]
+  * approve->release final artwork
+- [release final artwork]()
 
 ### Brands
 - [CA](https://github.com/ScottXiong/scott_English/blob/master/files/CA.md)
