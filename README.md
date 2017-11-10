@@ -20,7 +20,7 @@
 ### regular case flow
 - [quotation](https://github.com/ScottXiong/scott_English/blob/master/files/quotation.md)
 - [draft artwork]()
-> * need revise
+ * need revise
 - [revised artwork]()
 - [route to WMT for approval]()
 > * approve with chnages->go on next step
