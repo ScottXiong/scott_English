@@ -38,6 +38,7 @@
 
 ### Brands
 - [CA](https://github.com/ScottXiong/scott_English/blob/master/files/CA.md)
+- [GV](https://github.com/ScottXiong/scott_English/blob/master/files/GV.md)
 ### flows
 - [CAN](https://github.com/ScottXiong/scott_English/blob/master/files/canada_flow.md)(new)
 ### Other useful websites
