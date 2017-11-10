@@ -17,6 +17,20 @@
 - [daily summary](https://github.com/ScottXiong/scott_English/blob/master/files/daily_summary.md)
 - [packaging](https://github.com/ScottXiong/scott_English/blob/master/files/packaging.md)
 
+### regular case flow
+- [quotation](https://github.com/ScottXiong/scott_English/blob/master/files/quotation.md)
+- [draft artwork]()
+- [revised artwork]()
+- [route to WMT for approval]()
+   * approve with chnages
+   * change required
+   * approval
+- [move to translation]()
+- [send to supplier for final approval]()
+  * change required->need rivise
+  * approved
+- [release final artwork]
+
 ### Brands
 - [CA](https://github.com/ScottXiong/scott_English/blob/master/files/CA.md)
 ### flows
