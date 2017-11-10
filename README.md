@@ -15,6 +15,7 @@
 - [mistake](https://github.com/ScottXiong/scott_English/blob/master/files/mistake.md)
 - [test](https://github.com/ScottXiong/scott_English/blob/master/files/test.md)
 - [daily summary](https://github.com/ScottXiong/scott_English/blob/master/files/daily_summary.md)
+- [packaging](https://github.com/ScottXiong/scott_English/blob/master/files/packaging.md)
 
 ### Brands
 - [CA](https://github.com/ScottXiong/scott_English/blob/master/files/CA.md)
