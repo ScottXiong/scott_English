@@ -8,7 +8,8 @@ Ing Lim (Buyer), Teresa Isabella (PD), Wendy Chan (Packaging Specialist)<br>
 
 1,等客人将pf发给我们（因为我们已经发了pf给客人去填写），我们要将客人提供的pf和WMT给的kick off表(附件就是wmt发过来的）进行核对，然后用SIMON电脑上面的我们的cwmt邮箱将客人提供的pf和WMT给的kick off表给Packaging Specialis (wendy）（给哪一家客人的kick off时，请将其它客人的资料先删掉，只保留你发的那一家客人的），如果客人提供的pf和WMT给的kick off表有差别，请说明是什么不同，如果一样，请说明一下，说这两个是一样的<br>
 <br>
-### use email
+# use email
+
 Receipt:  Yuklam.Chan@walmart.com<br>
 CC:   chris,service,Greg.Vandenbrink@walmart.com<br>
 Subject： Packaging Form Confirmation/Canadiana spring 2018/UNIEK/Week 8<br>
@@ -28,7 +29,9 @@ Note: <br>
 2.等Packaging Specialist (wendy）确认客人的pf后，我们开始做稿，流单给设计师<br>
 
 3,设计师流单过来，看看有没有确认报价，如果没有，等确认报价，如果报价确认，要将合并的初稿给Packaging Specialist (wendy）确认和greg vandenbrink (reviewer)<br>
-### proofHQ
+
+# proofHQ
+
 <table>
  <thead>
     <tr>
@@ -56,7 +59,7 @@ Note: <br>
 </table>
 <hr>
 
-### subject:CA18_C171117_BIC.pdf (Version 1); CA2018/BICO/C171117
+# subject:CA18_C171117_BIC.pdf (Version 1); CA2018/BICO/C171117
 
 Hi Wendy, <br>
  
@@ -140,7 +143,7 @@ Reviewer & Approver, daily summery: nazeema.mohabir@walmart.com, ing.lim@walmart
 </table>
 <hr>
 
-### Subject:  CA18_C171110_NEM.pdf (Version 2); CA2018/Nemcor/C171110-Pre-translation
+# Subject:  CA18_C171110_NEM.pdf (Version 2); CA2018/Nemcor/C171110-Pre-translation
 
 Hi Wendy, Nazeema, Ing, Teresa, Caroline, <br>
 
