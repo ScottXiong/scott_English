@@ -1,2 +1,3 @@
 - Noted your approval on draft files, we will move to translation for those files.
 - Thanks for your email, we will process the artwork immediately.
+- We have removed Wendy from the proofs and Waiting Delandra’s further comments.  美 [ˈfɜ:rðə(r)]adj更多的;更远的，较远的;更进一步的，深一层的
