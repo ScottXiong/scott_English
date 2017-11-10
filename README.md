@@ -15,7 +15,8 @@
 - [mistake](https://github.com/ScottXiong/scott_English/blob/master/files/mistake.md)
 - [test](https://github.com/ScottXiong/scott_English/blob/master/files/test.md)
 - [daily summary](https://github.com/ScottXiong/scott_English/blob/master/files/daily_summary.md)
-- [packaging](https://github.com/ScottXiong/scott_English/blob/master/files/packaging.md)
+- [packaging words](https://github.com/ScottXiong/scott_English/blob/master/files/packaging.md)
+- [note to supplier]()
 
 ### regular case flow
 - [quotation](https://github.com/ScottXiong/scott_English/blob/master/files/quotation.md)
