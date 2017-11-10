@@ -3,11 +3,13 @@
 客人确认报价后，我们应该发初稿
 * note on all Garbage bags:
 all Garbage files - we need to send to Justin to take a look FIRST - not the supplier!
-
-以上这个note，是指这三个case的档案好后，传给justin
-C171118_APK
-C171119_KPI
-C171120_SUW
+```
+   以上这个note，是指这三个case的档案好后，传给justin
+     * C171118_APK
+     * C171119_KPI
+     * C171120_SUW
+``` 
+     
 ## 用PHQ
 person | rights
  --- | --- |
