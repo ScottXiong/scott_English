@@ -449,6 +449,7 @@ peppa pig 佩佩猪;粉红猪小妹<br>
 little lady bug小瓢虫 bug昆虫; <br>
 good fortune  好运气<br>
 prom zombie 舞会狂  zombie－》美 [ˈzɑ:mbi] 僵尸   prom－》美 [prɑ:m] 正式舞会，毕业舞会<br>
+
 carving kit雕刻工具 kit->指配套的东西<br>
 eyeballs 眼球，眼珠子<br>
 master 大师<br>
@@ -459,4 +460,5 @@ I guess something was wrong, please see attached screen shot. Can you create a n
 The ideal system will be automatic, seamless, intuitive to use, and robus 理想的系统将自动，无缝，直观的使用，和强大的。<br>
 Sorry for my late reply in this case. <br>
 Unverified e-mail 未经证实的e-mail 美 [ˌʌn'verɪfaɪd]  <br>
+
 
