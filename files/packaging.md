@@ -1,7 +1,5 @@
-1:The package dimensions for the item 41552/P170463/41482/P170464 do not need revise,please see the screenshot as below.
+### packaging description which means will be shown on packaging--it is different from product description
 
-2:The UL/CUL for the item 41552/41482 also do not need revise,thanks,please see the screenshot as below.
-<hr>
 * Clip-on 剪辑，用夹子夹住的
 * decor 装饰品 wall decor
 * candle 蜡烛
@@ -19,6 +17,7 @@
 * 2 nail polish 2瓶指甲油
 * 6 necklace
 <hr>
+
 * pinball games 弹球游戏
 * felt bag 毡毯（我国蒙古人住的帐篷）
 * polish 磨光
