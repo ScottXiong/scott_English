@@ -461,4 +461,15 @@ The ideal system will be automatic, seamless, intuitive to use, and robus 理想
 Sorry for my late reply in this case. <br>
 Unverified e-mail 未经证实的e-mail 美 [ˌʌn'verɪfaɪd]  <br>
 
+# 11/14/2017
+
+* illustration 美 [ˌɪləˈstreʃən] n插图;说明;例证;图解
+* Enclosed封闭的;被附上的;（用墙等）围住的;与外界隔绝的Enclosed the revised artwork for your approval, any question pls tell us, many thanks!
+* hyphen 连字符
+* can 罐头
+* steel 刚筋
+* concept 概念，只做一部分，可能只是正面
+* fit into 适合Often, the info in the LCT didn’t exactly fit into the template.
+* inconsistencies n矛盾( inconsistency的名词复数 )There were errors and inconsistencies on the LCTs
+* manuals 手册 美 ['mænjʊrlz]  cabla’s manual
 
