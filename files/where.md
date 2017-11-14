@@ -1,0 +1,1 @@
+- Then what exact location the logo should be placed on the product?
