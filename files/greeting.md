@@ -8,3 +8,8 @@ Have  a nice day.<br>
 
 * Enjoy your evening Maya.
 * Thank you for confirming. I will check with Walmart to see if there are CTI skus that should be added to Mother’s Day.
+* The photos look pretty good.
+* We just received a notice from WM GS office, we still working with them for the PDQ issue, will keep you posted, thanks.  会随时通知你
+* Please advise asap. 请尽快回复
+* The samples with sample tag are sending out via SF#248302890115, please check, thanks.
+* Thank you Charleen.  I appreciate your feedback on this.
