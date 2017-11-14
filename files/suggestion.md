@@ -1,0 +1,1 @@
+- We received Parent Choice artwork creation request as below, can we start the artwork adaptation now? 
