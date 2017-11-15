@@ -21,6 +21,7 @@
 - [need revise](https://github.com/ScottXiong/scott_English/blob/master/files/revision.md)
 - [Watch out](https://github.com/ScottXiong/scott_English/blob/master/files/watch_out.md) while u are working
 - [suggestion](https://github.com/ScottXiong/scott_English/blob/master/files/suggestion.md)
+- [out of office](https://github.com/ScottXiong/scott_English/blob/master/files/outOfDuty.md)
 
 ### regular case flow
 - [quotation](https://github.com/ScottXiong/scott_English/blob/master/files/quotation.md)
