@@ -15,14 +15,14 @@ Best if you check with me first going forward. So on these SUW files I will work
 Please acknowledge your understanding - tks
 
 
-Best Regards,
-Christopher Corriden
----------------------------
-BMK//AHI International, Ltd.
-Office Tel: +86(0)769-8176-0350
-China Cell: 13902961994
+Best Regards,<br>
+Christopher Corriden <br>
+---------------------------<br>
+BMK//AHI International, Ltd.<br>
+Office Tel: +86(0)769-8176-0350<br>
+China Cell: 13902961994<br>
 
-US: +1 888-415-5551
+US: +1 888-415-5551<br>
 
-Follow us on LinkedIn
+Follow us on [LinkedIn](https://www.linkedin.com/?trk=brandpage_baidu_pc-mainlink)<br>
 <hr>
