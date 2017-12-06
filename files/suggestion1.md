@@ -7,3 +7,4 @@ at the top bold, but beyond that, we’re not sure what additional revisions are
 - Enclosed please find the packaging kick off form of PC Accessory, could you check the details and pass it to relevant team
 so that we can start the packaging process?
 - Let me know if you have any question.
+- Note: Please provide the color information for the color swatch.
