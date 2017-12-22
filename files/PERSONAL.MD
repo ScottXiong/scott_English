@@ -9,5 +9,6 @@ have an actual commit. Sorry to trouble you.
 - Thank you for the file. Currently it is password protected so I am unable to apply the artwork. Could you get me that password, please. Thank you!
 - Can you forward me a screen-shot for your password protected problem?
 - Here it is. When we try to open the PDF file in AI to apply the artwork, this is what **pops up**. Thanks!
+- The following 1 file was approved by you a few days ago - but we neglected to include the face paper for the frame! Apologies for that. This new version includes the face papers -and is for your approval:
 
 
