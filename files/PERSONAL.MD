@@ -17,5 +17,19 @@ have an actual commit. Sorry to trouble you.
 - bounds边界
 - what if /how about ...?
 - dashed box 虚线框
+- We will take photo for the actual wreath with mock up hang tag for you reference once available, many thanks.
+- The draft artwork was routed to WMT Canada Packaging Team for approval. Due to the holiday last week, it has some delays.
+- Is there any update about the following artwork design of BWA18HO017C? Kindly help check and update the status. And keep us posted if any question. Thanks!
+- Please go ahead, the signed invoice will be provided once available, thanks.
+- Happy New Year<br>
+For the style guide and templates, you will need to go WMT’s box and download. 
+- Sorry for misunderstanding.It is FourStar brand packing. It also shows on the Packing Form.
+- We had routed the initial draft artwork to WMT for approval.
+- If you need the files for mock ups purpose, we can send to you firstly. But they are draft version only.
+- How is the progress for the artwork? Could you provide draft to us in these two days? 
+- Please confirm back asap, thanks.
+- In this case, we will proof instead of adaptation.
+- Let us check and get back to you later.
+- Note:BMK has reply to your comments, please change the status to "Approved" if there  is no question.
 
 
