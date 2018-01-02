@@ -30,6 +30,6 @@ For the style guide and templates, you will need to go WMT’s box and download.
 - Please confirm back asap, thanks.
 - In this case, we will proof instead of adaptation.
 - Let us check and get back to you later.
-- Note:We has replied to you on proofHQ, please change the status to "Approved" if there  is no question.
+- Note:We have replied to you on proofHQ, please change the status to "Approved" if there  is no question.
 
 
