@@ -31,5 +31,5 @@ For the style guide and templates, you will need to go WMT’s box and download.
 - In this case, we will proof instead of adaptation.
 - Let us check and get back to you later.
 - Note:We have replied to you on proofHQ, please change the status to "Approved" if there  is no question.
-
+- Thanks, for next round, please add the mock up image into the artwork for easier checking when buyer proofs the packagings.
 
