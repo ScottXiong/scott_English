@@ -32,4 +32,12 @@ For the style guide and templates, you will need to go WMT’s box and download.
 - Let us check and get back to you later.
 - Note:We have replied to you on proofHQ, please change the status to "Approved" if there  is no question.
 - Thanks, for next round, please add the mock up image into the artwork for easier checking when buyer proofs the packagings.
-
+- Please find attached photos fro you reference, many thanks.
+- Due to the design is totally different from last year.Here is the quotation for those items, please check and confirm.
+- If you have any questions, please let us know.
+- For 1 more condition, we have just received 1 comments from WM today, the PDQ design may be a little bit change.
+So, I will upload latest design recently. Should I contact with Timmy for further question on this point?
+- Please find attached hang tag we use last year, the upc is 049696845359, please help to check and advise, thanks!
+- pls kindly find attached file, have corrected  the  Column K and Column information.
+- So if we need to change the status to approve now? Or waiting for the revise UPC hang tag? Please advise , thanks!
+- Pls check the attachment packing form for 2018 BTS,for new item FCA18-1004/FCA18-1020 ,the dieline is the same as FCA16-0904,new item FCA18-1031 the dieline is the same as FCA14-45A,new item FCA18-1026 the dieline is the same as FCA17-1009.
