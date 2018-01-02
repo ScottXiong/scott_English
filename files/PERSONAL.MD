@@ -1,5 +1,6 @@
 - score access  成绩评估
 - check digit(Noted, but the check digit is 8 on our end which is different from 9 on your side,so please double check and confirm the UPC and make sure it’s correct.)
+- Please note - we received the PDQs and boxes for lights. Normally suppliers are supposed to list the UPC numbers of the items that will be held in each PDQ on the art file of the PDQ, in large type, near the slug. It was not done on these files, but we have let it pass this time. Please be sure to do this on future files. We will add a comment requesting this on the next set of files that have PDQs. 
 - “prove” is the wrong word here… better to say “confirm” or “verify”
 - Have you receive the commit from Walmart? We just need to verify that,as we aren't allowed to send them until suppliers
 have an actual commit. Sorry to trouble you.
