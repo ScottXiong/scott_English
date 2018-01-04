@@ -1,5 +1,7 @@
 - score access  成绩评估
 -  charger 充电器
+- Don’t worry about it, we will push the schedule and have communicated with Raven. Here is one issue need you to confirm.
+As for Raven’s comment, after checked the packaging form you provided. We found that the packaging type is Polybag with Poly Header. so we use opaque white per printed need. Could you please confirm the below 2 SKUs are in poly bags or in foil bags?
 - We will make another 2 independent artworks when we release the final artwork to you. Now it's the beginning
 of the process and it will be convenient for you and buyer to review.
 - We just saw your comments on ProofHQ, please advise if your still have further comments, if not, please submit your decision. Also please confirm the Country of Origin of your items.
