@@ -1,5 +1,7 @@
 - score access  成绩评估
 -  charger 充电器
+- We will make another 2 independent artworks when we release the final artwork to you. Now it's the beginning
+of the process and it will be convenient for you and buyer to review.
 - We just saw your comments on ProofHQ, please advise if your still have further comments, if not, please submit your decision. Also please confirm the Country of Origin of your items.
 - check digit(Noted, but the check digit is 8 on our end which is different from 9 on your side,so please double check and confirm the UPC and make sure it’s correct.)
 - Please note - we received the PDQs and boxes for lights. Normally suppliers are supposed to list the UPC numbers of the items that will be held in each PDQ on the art file of the PDQ, in large type, near the slug. It was not done on these files, but we have let it pass this time. Please be sure to do this on future files. We will add a comment requesting this on the next set of files that have PDQs. 
