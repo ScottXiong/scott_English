@@ -1,4 +1,5 @@
 - score access  成绩评估
+- exception 异常
 -  charger 充电器
 - Don’t worry about it, we will push the schedule and have communicated with Raven. Here is one issue need you to confirm.
 As for Raven’s comment, after checked the packaging form you provided. We found that the packaging type is Polybag with Poly Header. so we use opaque white per printed need. Could you please confirm the below 2 SKUs are in poly bags or in foil bags?
