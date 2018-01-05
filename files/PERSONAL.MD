@@ -1,4 +1,5 @@
 - score access  成绩评估
+- raw 未加工的，原材料的=initial adj
 - exception 异常
 -  charger 充电器
 - Don’t worry about it, we will push the schedule and have communicated with Raven. Here is one issue need you to confirm.
