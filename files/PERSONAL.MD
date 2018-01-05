@@ -2,6 +2,7 @@
 - raw 未加工的，原材料的=initial adj
 - exception 异常
 -  charger 充电器
+- Please double check, seems can't be scan out. 扫码扫不出来
 - We feel confused about clean for control and battery. Could you please clarify? Regarding the colour of the photo, the current version is raw and low-res, the color maybe a bit of different. We'll replace it with high-res picture when we release the artwork to you.
 - Don’t worry about it, we will push the schedule and have communicated with Raven. Here is one issue need you to confirm.
 As for Raven’s comment, after checked the packaging form you provided. We found that the packaging type is Polybag with Poly Header. so we use opaque white per printed need. Could you please confirm the below 2 SKUs are in poly bags or in foil bags?
