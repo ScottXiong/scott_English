@@ -1,4 +1,6 @@
 - score access  成绩评估
+- Passwords must have upper and lower case letters, at least 1 number, not match any part of your email, and be at least 8 characters long.
+- Password meets requirements
 - You can quickly get familiar with the main features of the IDE by reading these tips. You may try out the features described in the tips while this dialog stays open on the screen. If you close the dialog, you can always get back to it from the Help | Tip of the Day main menu item.
 - raw 未加工的，原材料的=initial adj
 - exception 异常
