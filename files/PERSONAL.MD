@@ -1,4 +1,5 @@
 - score access  成绩评估
+- Remove comma (,) between "Nilon" and "8%" in Spanish translation. Please apply this comment to all Costume Short cards. 
 - Please check the blister location in the enclosed 泡壳
 - Please provide the missing metric size accordingly.
 - Passwords must have upper and lower case letters, at least 1 number, not match any part of your email, and be at least 8 characters long.
