@@ -1,4 +1,5 @@
 - score access  成绩评估
+- bleed spine 出血
 - Remove comma (,) between "Nilon" and "8%" in Spanish translation. Please apply this comment to all Costume Short cards. 
 - Please check the blister location in the enclosed 泡壳
 - Please provide the missing metric size accordingly.
