@@ -9,7 +9,7 @@
 - raw 未加工的，原材料的=initial adj
 - exception 异常
 -  charger 充电器
-- Please double check, seems can't be scan out. 扫码扫不出来
+- Please double check, seems can't be scaned out. 扫码扫不出来
 - Hello supplier - what exactly are you scanning from? The PDF is not hi-res, so it will not scan properly. The UPC bars themselves are an EPS file, when output on an imagesetter, will scan. It is not meant for on screen scanning, or printed on an office printer. 
 - We feel confused about clean for control and battery. Could you please clarify? Regarding the colour of the photo, the current version is raw and low-res, the color maybe a bit of different. We'll replace it with high-res picture when we release the artwork to you.
 - Don’t worry about it, we will push the schedule and have communicated with Raven. Here is one issue need you to confirm.
