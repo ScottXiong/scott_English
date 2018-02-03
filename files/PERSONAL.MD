@@ -1,4 +1,5 @@
 - score access  成绩评估
+- Sorry, due to our translator is in USA, they are on weekend now, we wouldn’t get back to you until next Tuesday.
 - OK , well noted , please take it as first priority , appreciate your help
 - is it possible to darken the luggage just a little to add some contrast? we need this gray background to look good with the display, but I see how we lose some contrast with it.
 - Attached please see the confirmed quotation with signature.
