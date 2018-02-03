@@ -1,4 +1,5 @@
 - score access  成绩评估
+- is it possible to darken the luggage just a little to add some contrast? we need this gray background to look good with the display, but I see how we lose some contrast with it.
 - Attached please see the confirmed quotation with signature.
 Let us know if any questions, thank you.
 - bleed spine 出血
