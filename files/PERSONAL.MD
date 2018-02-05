@@ -1,4 +1,5 @@
 - score access  成绩评估
+- Hope you had a nice weekend.Should we proceed the instruction manual? The draft version is ready to be sent for approval.
 - Please remove “For safety’s sake,” Then capitalize the “R” in “remove”
 - In this case, could you please let us know the correct size for IM? The size of IM is flexible to us.
 - Sorry, due to our translator is in USA, they are on weekend now, we wouldn’t get back to you until next Tuesday.
