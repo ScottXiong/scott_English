@@ -1,4 +1,5 @@
 - score access  成绩评估
+- Please remove “For safety’s sake,” Then capitalize the “R” in “remove”
 - In this case, could you please let us know the correct size for IM? The size of IM is flexible to us.
 - Sorry, due to our translator is in USA, they are on weekend now, we wouldn’t get back to you until next Tuesday.
 - OK , well noted , please take it as first priority , appreciate your help
