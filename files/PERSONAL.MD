@@ -1,4 +1,5 @@
 - score access  成绩评估
+- But you can refer to WMUS tin box, we should have provide samples to Judy or Amanda. If not, let me know I can send to you, pls advise delivery address.
 - The charge of changing UPC is $10,  pls kindly help to check & update the quotation for us, many thanks!
 - The distance between dollar sign and the euro slot (all bandana artwork) is too close. Can you make sure there is reasonable distance- 3mm to avoid the text being chop off?
 - Hope you had a nice weekend.Should we proceed the instruction manual? The draft version is ready to be sent for approval.
