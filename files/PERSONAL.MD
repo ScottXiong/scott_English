@@ -1,5 +1,6 @@
 - score access  成绩评估
 - But you can refer to WMUS tin box, we should have provide samples to Judy or Amanda. If not, let me know I can send to you, pls advise delivery address.
+- You need to use FTP software. For PC - you can use Filezilla. It’s a free download on the web. For Mac, you can use Fetch, also free… both can be located with a google search
 - Well received the form, please send the dieline, or we are not able to proceed the artwork. Thanks
 - Sorry, due to the translations issue, we are still checking with our translator, we will get back to you as soon as we can.
 - Our designer is working on, once ready, we will send to you.
