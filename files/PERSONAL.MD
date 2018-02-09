@@ -1,4 +1,6 @@
 - score access  成绩评估
+- is it possible to darken the luggage just a little to add some contrast?
+- we need this gray background to look good with the display, but I see how we lose some contrast with it.
 - As the images files are really big, and I guess some artworks are no need product image, so please advise which product images are need for the artwork, so I could send accordingly instead of all, thanks.
 - Enclosed are the packaging form/Dielines for WMCA, related products images will sent by a separated email, please check and feel free to let me know if any question.
 
