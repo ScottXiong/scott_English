@@ -1,4 +1,7 @@
 - score access  成绩评估
+- As the images files are really big, and I guess some artworks are no need product image, so please advise which product images are need for the artwork, so I could send accordingly instead of all, thanks.
+- Enclosed are the packaging form/Dielines for WMCA, related products images will sent by a separated email, please check and feel free to let me know if any question.
+
 - But you can refer to WMUS tin box, we should have provide samples to Judy or Amanda. If not, let me know I can send to you, pls advise delivery address.
 - You need to use FTP software. For PC - you can use Filezilla. It’s a free download on the web. For Mac, you can use Fetch, also free… both can be located with a google search
 - Well received the form, please send the dieline, or we are not able to proceed the artwork. Thanks
