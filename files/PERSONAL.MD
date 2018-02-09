@@ -1,4 +1,6 @@
 - score access  成绩评估
+- Sorry for confuse, we just need to design for try me open stock base, no need to design PDQ, pls updated the quotation, thanks!
+- Please kindly note that there are modification items for below items:
 - is it possible to darken the luggage just a little to add some contrast?
 - we need this gray background to look good with the display, but I see how we lose some contrast with it.
 - As the images files are really big, and I guess some artworks are no need product image, so please advise which product images are need for the artwork, so I could send accordingly instead of all, thanks.
