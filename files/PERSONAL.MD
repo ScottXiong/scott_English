@@ -1,4 +1,5 @@
 - score access  成绩评估
+- To Be Determined 待决定TBD
 - the tail needs to be assembled by customers after they've bought the item. (the tail is KD). please advise if instruction is required? 
 - We have posted the ProofHQ notification to you earlier this day,  please ignore it, we will send the new link to you again.
 - Sorry - can you clarify what you mean? I’m having trouble understanding what you are trying to say.
