@@ -1,5 +1,6 @@
 - score access  成绩评估
 - the tail needs to be assembled by customers after they've bought the item. (the tail is KD). please advise if instruction is required? 
+- We have posted the ProofHQ notification to you earlier this day,  please ignore it, we will send the new link to you again.
 - Sorry - can you clarify what you mean? I’m having trouble understanding what you are trying to say.
 
 - Hello and thank you for your email. I am currently out of the office in training and will retun on Monday, February 26th. I will periodically be checking emails while away and will respond to your email as soon as possible upon my return.
