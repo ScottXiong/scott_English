@@ -1,5 +1,7 @@
 - score access  成绩评估
 - To Be Determined 待决定TBD
+- Could you please clarify your request? Which items will need to be revised? Please list out the file names.
+Are all these should be revised?
 - To save time, could you please list out the exact file name? Then we will separate for you.
 - We were informed by Walmart Packaging team earlier today that these items need to be changed to Pen & Gear brand.
 - the tail needs to be assembled by customers after they've bought the item. (the tail is KD). please advise if instruction is required? 
